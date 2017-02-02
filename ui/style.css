@@ -20,8 +20,8 @@ body {
     height: 200px;
 }
 
-h1{
-    color: darkblue;
+h3{
+    color: darkgreen;
 }
 
 #heading{
@@ -32,6 +32,6 @@ h1{
 
 #container{
     text-align: center;
-    color: darkgrey;
+    color: darkblue;
     
 }
