@@ -12,7 +12,7 @@ app.get('/counter', function(req,res){
 });
 
 var articleOne={
-   title:'Aticle One| Sr Bh' ,
+   title:'Article One| Sr Bh' ,
    heading:'Article One',
    date:'Feb 12, 2017',
    content:`
