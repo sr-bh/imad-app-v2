@@ -1,4 +1,4 @@
-body {
+body .index {
     font-family: sans-serif;
     background-color: #051120;
     margin-top: 75px;
@@ -12,6 +12,7 @@ body {
 .container{
     text-align:center;
 }
+
 .center {
     text-align: center;
     color: #cbcbdc;
