@@ -9,6 +9,9 @@ body {
     padding: 3px 3px 3px 7px;
 }
 
+.container{
+    text-align:center;
+}
 .center {
     text-align: center;
     color: #cbcbdc;
