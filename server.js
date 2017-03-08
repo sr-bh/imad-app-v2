@@ -30,48 +30,6 @@ app.get('/test-db', function(req,res){
     });
 });
 
-var articles={
-    'article-one':{
-       title:'Article One| Sr Bh' ,
-       heading:'Article One',
-       date:'Feb 12, 2017',
-       content:`
-                    <p>This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                    </p>
-                    
-                    <p>This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                    </p>
-                    
-                    <p>This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                    </p> `   
-    },
-    'article-two':{
-       title:'Article Two | Sr Bh' ,
-       heading:'Article Two',
-       date:'Feb 14, 2017',
-       content:`
-                    <p>This is the content of my second article. This is the content of my second article. This is the content of my second article. This is the content of my secondt article. This is the content of my second article. This is the content of my second article.
-                    </p>
-                    <p>This is the content of my second article. This is the content of my second article. This is the content of my second article. This is the content of my secondt article. This is the content of my second article. This is the content of my second article.
-                    </p>
-                    <p>This is the content of my second article. This is the content of my second article. This is the content of my second article. This is the content of my secondt article. This is the content of my second article. This is the content of my second article.
-                    </p>`
-    },
-    'article-three':{
-       title:'Article Three | Sr Bh' ,
-       heading:'Article Three',
-       date:'Feb 16, 2017',
-       content:`
-                    <p>This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article.
-                    </p>
-                    <p>This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article.
-                    </p>
-                    <p>This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article. This is the content of my third article.
-                    </p>`
-        
-    }
-    
-};
 function createTemplate(data){
     var title = data.title;
     var heading = data.heading;
