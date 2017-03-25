@@ -18,8 +18,10 @@
     padding: 30px;
 }
 
-.center {
+#nameList{
     display:inline-block;
+}
+.center {
     text-align: center;
     color: #3a3a4c;
 }
