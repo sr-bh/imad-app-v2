@@ -19,6 +19,7 @@
 }
 
 .center {
+    display:inline-block;
     text-align: center;
     color: #3a3a4c;
 }
