@@ -1,12 +1,13 @@
 .index {
     font-family: sans-serif;
-    background-color: #051120;
+    background-color: #cfdbea;
     margin-top: 75px;
 }
 
 #main-text{
-   text-shadow: 5px 5px 10px #715959;
-    padding: 3px 3px 3px 7px;
+   text-shadow: 5px 5px 10px #867676;
+   color: #43435a;
+   padding: 3px 3px 3px 7px;
 }
 
 .container{
