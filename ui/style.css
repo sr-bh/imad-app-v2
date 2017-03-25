@@ -1,7 +1,7 @@
 .index {
     font-family: sans-serif;
     background-color: #cfdbea;
-    margin-top: 75px;
+    margin-top: 50px;
 }
 
 #main-text{
@@ -19,6 +19,7 @@
 }
 
 #nameList{
+    text-align:left;
     display:inline-block;
 }
 .center {
