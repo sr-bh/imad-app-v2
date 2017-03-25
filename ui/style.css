@@ -5,6 +5,8 @@
 }
 
 #main-text{
+    height:auto;
+    width:auto;
    text-shadow: 5px 5px 10px #867676;
    color: #43435a;
    padding: 3px 3px 3px 7px;
