@@ -1,7 +1,7 @@
 .index {
     font-family: sans-serif;
     background-color: #cfdbea;
-    margin-top: 50px;
+    margin-top: 0;
 }
 
 #main-text{
@@ -12,10 +12,8 @@
    padding: 3px 3px 3px 7px;
 }
 #theNavigationBar {
-  padding: 0;
-  margin: 0;
-}
-#theNavigationBar {
+    padding:0;
+    margin:0;
     position: fixed;
     z-index: 1000;
     left: 0;
