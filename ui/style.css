@@ -11,6 +11,28 @@
    color: #43435a;
    padding: 3px 3px 3px 7px;
 }
+#theNavigationBar {
+  padding: 0;
+  margin: 0;
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #872be7;
+}
+.navBarOption_site_name {
+  font-weight: bolder;
+  font-size: 50px;
+  float: left;
+  margin-right: 60px;
+}
+.navBarOptions {
+  float: left;
+  margin-left: 35px;
+  margin-right: 10px;
+}
 
 .container{
     max-width: 800px;
