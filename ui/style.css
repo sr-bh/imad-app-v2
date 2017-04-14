@@ -20,7 +20,7 @@
     padding: 30px;
 }
 
-.list #nameList{
+#nameList{
     text-align:left;
     display:inline-block;
 }
