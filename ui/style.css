@@ -32,17 +32,15 @@
   background-color: #130323;
 }
 .navBarOption_site_name {
-  font-weight: bolder;
-  font-size: 50px;
+  font-weight: lighter;
+  font-size: 30px;
   float: left;
-  margin-left:20px;
-  margin-right: 250px;
+  padding:20px;
   color:#e3e3ec;
 }
 .navBarOptions {
   float: right;
-  margin-left: 35px;
-  margin-right: 10px;
+  padding:20px;
 }
 
 .container{
